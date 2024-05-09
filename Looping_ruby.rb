@@ -10,7 +10,7 @@
 
 
 for a in 1..9
-    puts "shri is first love #{a}"
+    puts "Programming  is first love #{a}"
   
 end
 
