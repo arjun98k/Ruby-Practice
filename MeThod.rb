@@ -1,6 +1,10 @@
-def add(a,b)
-    c=a+b
-end
+# def add(a,b)
+#     c=a+b
+# end
 
 
-puts add(11,22)
+# puts add(11,22)
+
+
+# parammeter function
+
